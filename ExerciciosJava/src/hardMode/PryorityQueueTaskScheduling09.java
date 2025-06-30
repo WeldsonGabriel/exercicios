@@ -1,7 +1,7 @@
 package hardMode;
 
-public class PryorityQueueTaskScheduling {
-    //CReate a PriorityQueue <integer> to represent a task priorities.
+public class PryorityQueueTaskScheduling09 {
+    //Create a PriorityQueue <integer> to represent a task priorities.
     //Add tasks with varying priorities(lower value = higher priority).
     //Process task by removing and printing them in priority order.
     public static void main(String[] args) {
